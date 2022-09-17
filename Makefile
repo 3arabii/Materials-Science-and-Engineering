@@ -1,5 +1,5 @@
 Pdf:  المقدمة
-	pandoc -V documentclass=report -V mainfont:"Amiri" -V lang:ar -V dir:rtl --pdf-engine=xelatex -s "مقدمة/مسودة.md" "مصطلحات وتعريفات.md" -o "علم وهندسة المواد.pdf"
+	pandoc -V documentclass=report -V mainfont:"Amiri" -V lang:ar -V dir:rtl --pdf-engine=xelatex -s "مقدمة/مسودة.md" "مصطلحات-و-تعريفات.md" -o "علم وهندسة المواد.pdf"
 
 
 
