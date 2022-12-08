@@ -36,6 +36,6 @@ sudo apt-get install texlive-xetex
 
 1. Foundations of Materials Science and Engineering by Willaim Smith, Javed Hashemi (7th Edition)
 2. Materials Science and Engineering An Introduction by David G. Rethwisch and William Callister (10th Edition)
-
+3. Introduction to physical metallurgy by Avner, Sidney H (Second Edition) (pretty old but i was FORCED to study it so ........... yeah)
 
 
